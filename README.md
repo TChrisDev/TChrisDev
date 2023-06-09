@@ -8,8 +8,13 @@
 
 ----------------------------------------------------------
 <div id="about-me">
-  <h3 color="blue">My Projects 🚀</h3>
+  <h3>My Projects 🚀</h3>
     <ul>
       <li>Valco Ingeniería SAS: <a href="https://valcoingenieriasas.com/" target="_blank">Visit the website!</a></<li>
     <ul>
  </div
+      
+ ----------------------------------------------------------
+ <div id="stack">
+   <h3>My stacks technologies 🧑‍💻</h3>
+ </div>
