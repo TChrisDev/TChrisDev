@@ -19,4 +19,5 @@
    <h3>My stacks technologies ⚙️</h3>
       <table>
         <th>Frontend</th>
+       </table 
  </div>
