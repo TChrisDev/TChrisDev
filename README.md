@@ -1,5 +1,5 @@
 <div id="container-principal" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320">
   <h1 align="center"> Hi! 👋, I'm TChrisDev</h1>
   <p>Student of software engineer and Frontend/Javascript Developer, team player, communication, and problem-solving are some of the skills   that make me perform well in workgroup.</p>
   
