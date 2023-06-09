@@ -8,5 +8,5 @@
 
 ----------------------------------------------------------
 <div id="about-me" align="justify">
-  <h3>About Me</h3>
+  <h3 color="blue">About Me</h3>
  </div
