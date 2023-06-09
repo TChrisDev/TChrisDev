@@ -21,8 +21,13 @@
         <tr>
           <th>Frontend</th>
           <th>Backend</th>
-          <th>Additionals Stacks</th>
+          <th>Frameworks</th>
         </tr>
         
+        <tr>
+          <td>HTML5</td>
+          <td>CSS3</td>
+          <td>JavaScript</td>
+        </tr>
       </table> 
  </div>
