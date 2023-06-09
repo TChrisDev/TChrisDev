@@ -26,8 +26,6 @@
           <td>HTML5</td>
           <td>CSS3</td>
           <td>JavaScript</td>
-          <td>Bootstrap</td>
-          <td>JQuery</td>
         </tr>
         <tr>
           <td>NodeJS</td>
