@@ -6,7 +6,7 @@
   <p>I have developed severeal projects that have made me grow in experience. I'm passionate about  software development and all I can        learn and discovery in this industry. ¡I really like to collaborate on projects and take the challenges to solve a problem that helps a   cause in the allows me to increase my skills and my profile professional!</p>
 </div>
 
---
+----------------------------------------------------------
 <div id="about-me" align="justify">
   <h3>About Me</h3>
  </div
