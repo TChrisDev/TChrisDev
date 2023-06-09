@@ -18,6 +18,11 @@
  <div id="stack">
    <h3>My stacks technologies ⚙️</h3>
       <table>
-        <th>Frontend</th>
-       </table 
+        <tr>
+          <th>Frontend</th>
+          <th>Backend</th>
+          <th>Additionals Stacks</th>
+        </tr>
+        
+      </table> 
  </div>
