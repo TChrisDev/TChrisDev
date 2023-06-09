@@ -17,13 +17,22 @@
  -------------------------------------------------------------------------------------------------------------------------------
  <div id="stack">
    <h3>My stacks technologies ⚙️</h3>
-      <table>
+      <table id="table-stack">
         <tr>
           <th>Frontend</th>
           <th>Backend</th>
           <th>Frameworks</th>
         </tr>
-        
+        <tr>
+          <td>HTML5</td>
+          <td>CSS3</td>
+          <td>JavaScript</td>
+        </tr>
+        <tr>
+          <td>HTML5</td>
+          <td>CSS3</td>
+          <td>JavaScript</td>
+        </tr>
         <tr>
           <td>HTML5</td>
           <td>CSS3</td>
