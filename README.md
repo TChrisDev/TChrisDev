@@ -17,26 +17,22 @@
  -------------------------------------------------------------------------------------------------------------------------------
  <div id="stack">
    <h3>My stacks technologies ⚙️</h3>
-      <table id="table-stack">
+      <table id="table-stack" align="center">
         <tr>
           <th>Frontend</th>
           <th>Backend</th>
-          <th>Frameworks</th>
         </tr>
         <tr>
           <td>HTML5</td>
           <td>CSS3</td>
           <td>JavaScript</td>
+          <td>Bootstrap</td>
+          <td>JQuery</td>
         </tr>
         <tr>
-          <td>HTML5</td>
-          <td>CSS3</td>
-          <td>JavaScript</td>
-        </tr>
-        <tr>
-          <td>HTML5</td>
-          <td>CSS3</td>
-          <td>JavaScript</td>
+          <td>NodeJS</td>
+          <td>PHP</td>
+          <td>Laravel</td>
         </tr>
       </table> 
  </div>
