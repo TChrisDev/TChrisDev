@@ -1,4 +1,4 @@
 <div id="container-principal" align="center">
- <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" allowFullScreen>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400">
   <h1 align="center"> Hi! 👋, I'm TChrisDev</h1>
 </div>
