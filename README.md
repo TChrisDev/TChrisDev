@@ -7,6 +7,6 @@
 </div>
 
 ----------------------------------------------------------
-<div id="about-me" align="justify">
+<div id="about-me">
   <h3 color="blue">About Me</h3>
  </div
