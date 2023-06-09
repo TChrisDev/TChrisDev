@@ -16,5 +16,5 @@
       
  ----------------------------------------------------------
  <div id="stack">
-   <h3>My stacks technologies 🧑‍💻</h3>
+   <h3>My stacks technologies ⚙️</h3>
  </div>
