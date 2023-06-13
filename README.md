@@ -15,22 +15,4 @@
  </div
       
  -------------------------------------------------------------------------------------------------------------------------------
- <div id="stack">
-   <h3>My stacks technologies ⚙️</h3>
-      <table id="table-stack" align="center">
-        <tr>
-          <th>Frontend</th>
-          <th>Backend</th>
-        </tr>
-        <tr>
-          <td>HTML5</td>
-          <td>CSS3</td>
-          <td>JavaScript</td>
-        </tr>
-        <tr>
-          <td>NodeJS</td>
-          <td>PHP</td>
-          <td>Laravel</td>
-        </tr>
-      </table> 
- </div>
+      
